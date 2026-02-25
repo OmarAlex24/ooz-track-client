@@ -1,10 +1,8 @@
-# [Traccar Client app](https://www.traccar.org/client)
-
-[![Get it on Google Play](http://www.tananaev.com/badges/google-play.svg)](https://play.google.com/store/apps/details?id=org.traccar.client) [![Download on the App Store](http://www.tananaev.com/badges/app-store.svg)](https://itunes.apple.com/app/traccar-client/id843156974)
+# ooz Track Client
 
 ## Overview
 
-Traccar Client is a GPS tracking app for Android and iOS. It runs in the background and sends location updates to your own server using the open-source Traccar platform.
+ooz Track is a GPS tracking app for Android and iOS. It runs in the background and sends location updates to your server using the Traccar platform.
 
 - **Real-time Tracking**: See your device’s location on your private server in real time.
 - **Open-Source**: 100% free and open-source, with no ads or tracking.

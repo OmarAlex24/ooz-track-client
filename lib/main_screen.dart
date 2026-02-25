@@ -1,9 +1,9 @@
 import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:traccar_client/main.dart';
-import 'package:traccar_client/password_service.dart';
-import 'package:traccar_client/preferences.dart';
+import 'package:ooz_track_client/main.dart';
+import 'package:ooz_track_client/password_service.dart';
+import 'package:ooz_track_client/preferences.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter_background_geolocation/flutter_background_geolocation.dart' as bg;
 
@@ -202,7 +202,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Traccar Client'),
+        title: Text('ooz Track'),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
